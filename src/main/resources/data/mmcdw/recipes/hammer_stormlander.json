@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "RHR",
+        "D/D"
+    ],
+    "key": {
+        "H": {
+            "item": "mcdw:hammer_great_hammer"
+        },
+        "C": {
+            "item": "minecraft:creeper_head"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        },
+        "D": {
+            "item": "minecraft:anvil"
+        },
+        "#": {
+            "item": "minecraft:copper_block"
+        }
+    },
+    "result": {
+        "item": "mcdw:hammer_stormlander",
+        "count": 1
+    }
+}

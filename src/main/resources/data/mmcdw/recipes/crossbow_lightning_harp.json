@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "OOO",
+        "OCO",
+        " c "
+    ],
+    "key": {
+        "C": {
+            "item": "mcdw:crossbow_harp_crossbow"
+        },
+        "O": {
+            "item": "minecraft:gray_dye"
+        },
+        "c": {
+            "item": "minecraft:creeper_head"
+        }
+    },
+    "result": {
+        "item": "mcdw:crossbow_lightning_harp_crossbow",
+        "count": 1
+    }
+}
